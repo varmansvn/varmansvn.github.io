@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            malinka
+tagline:          'A father fights in the big world for his daughter'
+description:      'Java, Android, and HTML5'
+url:              http://varmansvn.github.io
+
+author:
+  name:           'malinka'
+  url:            https://www.facebook.com/varmansvn
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/varmansvn/varmansvn.github.io
