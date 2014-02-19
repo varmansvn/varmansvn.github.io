@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About 
 ---
 
 I am currently working for [TELOGIC](http://www.telogic.com.sg) as the software engineer.
